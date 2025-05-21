@@ -20,7 +20,7 @@ A responsive front‑end clone of **Spotify’s Web Player** crafted with **pure
 
 ## Live Demo
 
-> **Preview it now:** [Open the demo](https://your-demo-link.com) *(replace with your deployment URL)* — best viewed on a Chromium‑based browser.
+> **Preview it now:** [Open the demo](https://priyanjalgairola.github.io/Spotify-Clone/) — best viewed on a Chromium‑based browser.
 
 ---
 
@@ -51,13 +51,7 @@ A responsive front‑end clone of **Spotify’s Web Player** crafted with **pure
    git clone https://github.com/your‑username/spotify‑clone.git
    cd spotify‑clone
    ```
-2. **Open ****\`\`**** in your browser**
-
-   ```bash
-   # optional: serve locally for faster development
-   npx serve .
-   ```
-
+   
 > No build tools necessary—the project is 100 % static.
 
 ---
@@ -91,14 +85,6 @@ spotify-clone/
 * **Google Fonts** (Montserrat, Poppins)
 
 ---
-
-## Screenshots
-
-| Desktop | Mobile |
-| ------- | ------ |
-|         |        |
-
-> *Screenshots are optional—add your own to showcase the UI on different devices.*
 
 ---
 

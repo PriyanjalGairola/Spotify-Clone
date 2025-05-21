@@ -11,7 +11,6 @@ A responsive front‑end clone of **Spotify’s Web Player** crafted with **pure
 * [Getting Started](#getting-started)
 * [Project Structure](#project-structure)
 * [Built With](#built-with)
-* [Screenshots](#screenshots)
 * [Contributing](#contributing)
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
@@ -102,7 +101,7 @@ Pull requests are welcome! If you have improvements—accessibility tweaks, new 
 
 ## License
 
-Distributed under the **MIT License**. See `LICENSE` for details.
+Distributed under the **MIT License**. See `LICENSE`[](LICENCE) for details.
 
 ---
 

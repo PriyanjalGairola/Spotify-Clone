@@ -101,7 +101,7 @@ Pull requests are welcome! If you have improvements—accessibility tweaks, new 
 
 ## License
 
-Distributed under the **MIT License**. See [LICENSE](LICENCE) for details.
+Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
 
